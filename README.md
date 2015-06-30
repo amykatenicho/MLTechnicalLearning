@@ -1,10 +1,10 @@
 # MLTechnicalLearning
 Azure Machine Learning Resources and Project Oxford API samples
 
-Author: Amy Nicholson (amynic@microsoft.com)
+Author: Amy Nicholson (amykate_7@live.com)
 Last Updated: 30/06/2015
 
-The Azure ML Data Analysis Workshop Public OneDrive folder contains materials relating to an Azure Machine Learning Flight Delay demo.
+The Azure ML Data Analysis Workshop Github repo contains materials relating to an Azure Machine Learning Flight Delay demo.
 This demo was created by Amy Nicholson and Andrew Fryer, Technical Evangelist at Microsoft.
 
 Contents:
