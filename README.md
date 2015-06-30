@@ -7,7 +7,7 @@ Last Updated: 30/06/2015
 The Azure ML Data Analysis Workshop Github repo contains materials relating to an Azure Machine Learning Flight Delay demo.
 This demo was created by Amy Nicholson and Andrew Fryer, Technical Evangelist at Microsoft.
 
-Contents:
+Contents: http://1drv.ms/1B798bz 
 - Azure Machine Learning Tutorial.docx 
 	(Word Document containing a Flight Delay Demo experiment created in Azure ML, from data ingest to producing and testing a web service)
 - Azure Machine Learning Tutorial.pdf 
